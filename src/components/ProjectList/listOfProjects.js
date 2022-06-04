@@ -1,4 +1,10 @@
-const projectList = [
+const projectList = [name: 'Qute Browser',
+    imageSrc: 'https://avatars1.githubusercontent.com/u/21955151?s=200&v=4',
+    githubLink:
+      'https://github.com/qutebrowser/qutebrowser',
+    description: 'A keyboard-driven, vim-like browser based on PyQt5',
+    tags: ['Python','Qt','pyqt5','Vim','Browser','qtWebEngine','web']
+  },
   {
     name: 'Reseter.css',
     imageSrc: 'https://github.com/krishdevdb/reseter.css/raw/master/logo.png',
